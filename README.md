@@ -72,9 +72,6 @@ Read the input image in color mode.
 ##  Program
 
 ```
-# Developed By: [Your Name]
-# Register No: [Your Register Number]
-
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
